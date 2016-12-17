@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Khmeread</string>
+    <string name="app_url">http://khmeread.com</string>
+    <string name="app_host">khmeread.com</string>
+    <string name="open_settings">Settings</string>
+    <string name="network_unavailable_message">Mobile network not available.</string>
+    <string name="title_activity_external">ExternalActivity</string>
+</resources>
